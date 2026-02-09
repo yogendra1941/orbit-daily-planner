@@ -6,7 +6,7 @@ It helps you plan your day, set reminders, and stay productive with a clean and 
 ## 📥 Download
 
 - 📱 **Latest Version (v1.0.2)**  
-  👉 Download APK: https://drive.google.com/file/d/1GmQl3xCvsUO_jUO1pT49kpOpMJ4JC3XW/view?usp=sharing
+  👉 [Download Latest APK](https://drive.google.com/file/d/1GmQl3xCvsUO_jUO1pT49kpOpMJ4JC3XW/view?usp=sharing)
 
 *(Play Store version coming soon)*
 
